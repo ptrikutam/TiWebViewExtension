@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.1
+apiversion: 2
+description: This is a simple extension to the TiWebView that allows you to set cookies & user agents on iOS.
+author: Pavan Trikutam
+license: MIT License
+copyright: Copyright (c) 2013 by Pavan Trikutam
+
+
+# these should not be edited
+name: TiWebViewExtension
+moduleid: com.ptrikutam.tiwebviewextension
+guid: d8587103-513f-48a7-a5be-bcafc7ef3795
+platform: iphone
+minsdk: 3.1.0.GA
